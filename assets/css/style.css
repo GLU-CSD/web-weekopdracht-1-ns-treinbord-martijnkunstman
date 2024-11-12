@@ -28,3 +28,38 @@
     background-color: rgb(0, 0, 106);
     border: 2px solid #000;
 }
+
+#vierkant{
+    width: 90px;
+    height: 90px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: white;
+}
+
+#vierkant2{
+    width: 20px;
+    height:20px;
+    background: rgb(0, 0, 106);
+    margin-top:0px;
+    margin-left:0px;
+    display: inline-block;
+}
+
+#spoor{
+    font-size: 8px;
+    display: inline-block;
+    color: rgb(0, 0, 106);
+}
+
+#id18{
+    font-size: 50px;
+    display: inline-block;    
+    color: rgb(0, 0, 106);
+}
+
+#b{
+    font-size: 16px;
+    display: inline-block;    
+    color: rgb(0, 0, 106);
+}
